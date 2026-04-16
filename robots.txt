@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hemnsue.github.io/al-folio/sitemap.xml
+Sitemap: https://hemnsue.github.io/sitemap.xml
